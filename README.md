@@ -13,8 +13,8 @@ A simple, privacy-focused local REST API for running AI language models offline,
 🚀 Get Started
 Option 1: Python Setup (Great for Development)
 # Grab the code and set up
-git clone <repository>
-cd local-ai-hub
+git clone https://github.com/Tadese10/LocalAIHub.git
+cd LocalAIHub
 
 # Run the setup script
 chmod +x setup.sh  # On Windows, skip this and run setup directly (see below)
